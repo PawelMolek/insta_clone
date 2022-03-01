@@ -17,6 +17,7 @@ gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 gem 'jquery-turbolinks'
 gem 'turbolinks', '~> 5.2', '>= 5.2.1'
 gem 'jquery-rails', '~> 4.4'
+gem 'toastr-rails'
 
 group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]

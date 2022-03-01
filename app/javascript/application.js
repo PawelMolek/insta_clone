@@ -7,4 +7,5 @@
 //= require jquery3
 //= require bootstrap-sprockets
 //= require bootstrap
+//= require toastr
 //= require_tree .
